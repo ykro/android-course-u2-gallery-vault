@@ -1,0 +1,174 @@
+{
+  "info": {
+    "total": 12,
+    "parameters": {
+      "skip": 6,
+      "limit": 6,
+      "type": "Painting",
+      "cc0": "1",
+      "has_image": "1"
+    }
+  },
+  "data": [
+    {
+      "id": 7,
+      "accession_number": "1951.355",
+      "title": "Portrait of a Family Playing Music",
+      "creation_date": "1663",
+      "culture": [
+        "Netherlands"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 2633,
+          "description": "Pieter de Hooch (Dutch, 1629–1684)",
+          "role": "artist",
+          "birth_year": "1629",
+          "death_year": "1684"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.355/1951.355_web.jpg",
+          "width": "900",
+          "height": "759",
+          "filename": "1951.355_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "accession_number": "1946.83",
+      "title": "Frieze of Dancers",
+      "creation_date": "c. 1895",
+      "culture": [
+        "France, 19th century"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 1759,
+          "description": "Edgar Degas (French, 1834–1917)",
+          "role": "artist",
+          "birth_year": "1834",
+          "death_year": "1917"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.83/1946.83_web.jpg",
+          "width": "900",
+          "height": "314",
+          "filename": "1946.83_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "accession_number": "1962.37",
+      "title": "Cupid and Psyche",
+      "creation_date": "1817",
+      "culture": [
+        "France, 19th century"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 1643,
+          "description": "Jacques-Louis David (French, 1748–1825)",
+          "role": "artist",
+          "birth_year": "1748",
+          "death_year": "1825"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1962.37/1962.37_web.jpg",
+          "width": "1180",
+          "height": "893",
+          "filename": "1962.37_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "accession_number": "1927.1984",
+      "title": "The Biglin Brothers Turning the Stake",
+      "creation_date": "1873",
+      "culture": [
+        "United States"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 4037,
+          "description": "Thomas Eakins (American, 1844–1916)",
+          "role": "artist",
+          "birth_year": "1844",
+          "death_year": "1916"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.1984/1927.1984_web.jpg",
+          "width": "1263",
+          "height": "835",
+          "filename": "1927.1984_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "accession_number": "1922.1133",
+      "title": "Stag at Sharkey's",
+      "creation_date": "1909",
+      "culture": [
+        "United States"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 3005,
+          "description": "George Bellows (American, 1882–1925)",
+          "role": "artist",
+          "birth_year": "1882",
+          "death_year": "1925"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1922.1133/1922.1133_web.jpg",
+          "width": "1194",
+          "height": "893",
+          "filename": "1922.1133_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "accession_number": "2022.40",
+      "title": "Le Dévouement des Citoyennes de Paris (The Dedication of the Citizens of Paris)",
+      "creation_date": "1794",
+      "culture": [],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 457342,
+          "description": "Joseph-Benoît Suvée (French, 1743–1807)",
+          "role": "artist",
+          "birth_year": "1743",
+          "death_year": "1807"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.40/2022.40_web.jpg",
+          "width": "900",
+          "height": "772",
+          "filename": "2022.40_web.jpg"
+        }
+      }
+    }
+  ]
+}

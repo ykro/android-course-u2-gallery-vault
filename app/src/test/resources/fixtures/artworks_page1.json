@@ -1,0 +1,168 @@
+{
+  "info": {
+    "total": 12,
+    "parameters": {
+      "skip": 0,
+      "limit": 6,
+      "type": "Painting",
+      "cc0": "1",
+      "has_image": "1"
+    }
+  },
+  "data": [
+    {
+      "id": 1,
+      "accession_number": "1915.534",
+      "title": "Nathaniel Hurd",
+      "creation_date": "c. 1765",
+      "culture": [
+        "United States"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 2409,
+          "description": "John Singleton Copley (American, born The Thirteen Colonies, 1738–1815)",
+          "role": "artist",
+          "birth_year": "1738",
+          "death_year": "1815"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.534/1915.534_web.jpg",
+          "width": "748",
+          "height": "893",
+          "filename": "1915.534_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "accession_number": "1921.1239",
+      "title": "Portrait of Dora Wheeler",
+      "creation_date": "1882–83",
+      "culture": [
+        "United States"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 3071,
+          "description": "William Merritt Chase (American, 1849–1916)",
+          "role": "artist",
+          "birth_year": "1849",
+          "death_year": "1916"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1239/1921.1239_web.jpg",
+          "width": "939",
+          "height": "893",
+          "filename": "1921.1239_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "accession_number": "1965.233",
+      "title": "Twilight in the Wilderness",
+      "creation_date": "1860",
+      "culture": [
+        "United States"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 2697,
+          "description": "Frederic Edwin Church (American, 1826–1900)",
+          "role": "artist",
+          "birth_year": "1826",
+          "death_year": "1900"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_web.jpg",
+          "width": "900",
+          "height": "562",
+          "filename": "1965.233_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "accession_number": "1958.31",
+      "title": "Adeline Ravoux",
+      "creation_date": "1890",
+      "culture": [
+        "Netherlands"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 1779,
+          "description": "Vincent van Gogh (Dutch, 1853–1890)",
+          "role": "artist",
+          "birth_year": "1853",
+          "death_year": "1890"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_web.jpg",
+          "width": "900",
+          "height": "897",
+          "filename": "1958.31_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "accession_number": "1958.39",
+      "title": "The Red Kerchief",
+      "creation_date": "c. 1868–73",
+      "culture": [
+        "France, 19th century"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 1844,
+          "description": "Claude Monet (French, 1840–1926)",
+          "role": "artist",
+          "birth_year": "1840",
+          "death_year": "1926"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_web.jpg",
+          "width": "723",
+          "height": "900",
+          "filename": "1958.39_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "accession_number": "1916.793",
+      "title": "Portrait of a Couple",
+      "creation_date": "c. 1580–88",
+      "culture": [
+        "Northern Italy, late 16th century"
+      ],
+      "type": "Painting",
+      "creators": [],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.793/1916.793_web.jpg",
+          "width": "1257",
+          "height": "893",
+          "filename": "1916.793_web.jpg"
+        }
+      }
+    }
+  ]
+}

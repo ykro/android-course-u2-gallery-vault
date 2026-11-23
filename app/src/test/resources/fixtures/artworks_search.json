@@ -1,0 +1,237 @@
+{
+  "info": {
+    "total": 8,
+    "parameters": {
+      "skip": 0,
+      "limit": 8,
+      "type": "Painting",
+      "cc0": "1",
+      "has_image": "1"
+    }
+  },
+  "data": [
+    {
+      "id": 101,
+      "accession_number": "1965.15",
+      "title": "Portrait of the Jester Calabazas",
+      "creation_date": "c. 1631–32",
+      "culture": [
+        "Spain"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 5145,
+          "description": "Diego Velázquez (Spanish, 1599–1660)",
+          "role": "artist",
+          "birth_year": "1599",
+          "death_year": "1660"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.15/1965.15_web.jpg",
+          "width": "553",
+          "height": "900",
+          "filename": "1965.15_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 102,
+      "accession_number": "1922.1133",
+      "title": "Stag at Sharkey's",
+      "creation_date": "1909",
+      "culture": [
+        "United States"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 3005,
+          "description": "George Bellows (American, 1882–1925)",
+          "role": "artist",
+          "birth_year": "1882",
+          "death_year": "1925"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1922.1133/1922.1133_web.jpg",
+          "width": "1194",
+          "height": "893",
+          "filename": "1922.1133_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 103,
+      "accession_number": "1979.57",
+      "title": "Ruin by the Sea",
+      "creation_date": "1881",
+      "culture": [
+        "Switzerland"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 2775,
+          "description": "Arnold Böcklin (Swiss, 1827–1901)",
+          "role": "artist",
+          "birth_year": "1827",
+          "death_year": "1901"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.57/1979.57_web.jpg",
+          "width": "656",
+          "height": "893",
+          "filename": "1979.57_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 104,
+      "accession_number": "1958.34",
+      "title": "Berthe Morisot with a Muff",
+      "creation_date": "c. 1871–72",
+      "culture": [
+        "France, 19th century"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 1796,
+          "description": "Édouard Manet (French, 1832–1883)",
+          "role": "artist",
+          "birth_year": "1832",
+          "death_year": "1883"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.34/1958.34_web.jpg",
+          "width": "726",
+          "height": "900",
+          "filename": "1958.34_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 105,
+      "accession_number": "1944.90",
+      "title": "Portrait of a Woman",
+      "creation_date": "1635 or earlier",
+      "culture": [
+        "Netherlands"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 2520,
+          "description": "Rembrandt van Rijn (Dutch, 1606–1669)",
+          "role": "artist",
+          "birth_year": "1606",
+          "death_year": "1669"
+        },
+        {
+          "id": 61762,
+          "description": "Studio",
+          "role": "artist",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.90/1944.90_web.jpg",
+          "width": "738",
+          "height": "900",
+          "filename": "1944.90_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 106,
+      "accession_number": "1947.207",
+      "title": "Portrait of Isabella Brant",
+      "creation_date": "c. 1620–25",
+      "culture": [
+        "Flanders"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 1251,
+          "description": "Peter Paul Rubens (Flemish, 1577–1640)",
+          "role": "artist",
+          "birth_year": "1577",
+          "death_year": "1640"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1947.207/1947.207_web.jpg",
+          "width": "756",
+          "height": "893",
+          "filename": "1947.207_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 107,
+      "accession_number": "1980.262",
+      "title": "Alpine Landscape:  The Handegg, Switzerland",
+      "creation_date": "1850s",
+      "culture": [
+        "France, 19th century"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 1694,
+          "description": "Jean-Léon Gérôme (French, 1824–1904)",
+          "role": "artist",
+          "birth_year": "1824",
+          "death_year": "1904"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1980.262/1980.262_web.jpg",
+          "width": "900",
+          "height": "649",
+          "filename": "1980.262_web.jpg"
+        }
+      }
+    },
+    {
+      "id": 108,
+      "accession_number": "1943.90",
+      "title": "Portrait of Don Juan Antonio Cuervo",
+      "creation_date": "1819",
+      "culture": [
+        "Spain"
+      ],
+      "type": "Painting",
+      "creators": [
+        {
+          "id": 2386,
+          "description": "Francisco de Goya (Spanish, 1746–1828)",
+          "role": "artist",
+          "birth_year": "1746",
+          "death_year": "1828"
+        }
+      ],
+      "images": {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.90/1943.90_web.jpg",
+          "width": "654",
+          "height": "893",
+          "filename": "1943.90_web.jpg"
+        }
+      }
+    }
+  ]
+}
